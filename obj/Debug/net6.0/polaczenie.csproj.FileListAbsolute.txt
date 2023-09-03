@@ -1,0 +1,15 @@
+C:\Users\K\Desktop\projekt na sieci\polaczenie\bin\Debug\net6.0\polaczenie.exe
+C:\Users\K\Desktop\projekt na sieci\polaczenie\bin\Debug\net6.0\polaczenie.deps.json
+C:\Users\K\Desktop\projekt na sieci\polaczenie\bin\Debug\net6.0\polaczenie.runtimeconfig.json
+C:\Users\K\Desktop\projekt na sieci\polaczenie\bin\Debug\net6.0\polaczenie.dll
+C:\Users\K\Desktop\projekt na sieci\polaczenie\bin\Debug\net6.0\polaczenie.pdb
+C:\Users\K\Desktop\projekt na sieci\polaczenie\obj\Debug\net6.0\polaczenie.csproj.AssemblyReference.cache
+C:\Users\K\Desktop\projekt na sieci\polaczenie\obj\Debug\net6.0\polaczenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K\Desktop\projekt na sieci\polaczenie\obj\Debug\net6.0\polaczenie.AssemblyInfoInputs.cache
+C:\Users\K\Desktop\projekt na sieci\polaczenie\obj\Debug\net6.0\polaczenie.AssemblyInfo.cs
+C:\Users\K\Desktop\projekt na sieci\polaczenie\obj\Debug\net6.0\polaczenie.csproj.CoreCompileInputs.cache
+C:\Users\K\Desktop\projekt na sieci\polaczenie\obj\Debug\net6.0\polaczenie.dll
+C:\Users\K\Desktop\projekt na sieci\polaczenie\obj\Debug\net6.0\refint\polaczenie.dll
+C:\Users\K\Desktop\projekt na sieci\polaczenie\obj\Debug\net6.0\polaczenie.pdb
+C:\Users\K\Desktop\projekt na sieci\polaczenie\obj\Debug\net6.0\polaczenie.genruntimeconfig.cache
+C:\Users\K\Desktop\projekt na sieci\polaczenie\obj\Debug\net6.0\ref\polaczenie.dll
